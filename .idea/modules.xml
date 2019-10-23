@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chain-of-responsibility/chain-of-responsibility.iml" filepath="$PROJECT_DIR$/chain-of-responsibility/chain-of-responsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-100-way-to-kill-if-else.iml" filepath="$PROJECT_DIR$/.idea/java-100-way-to-kill-if-else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/table-driven/table-driven.iml" filepath="$PROJECT_DIR$/table-driven/table-driven.iml" />
+    </modules>
+  </component>
+</project>
